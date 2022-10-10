@@ -1,0 +1,57 @@
+ul {
+    list-style: none;
+}
+
+a:visited {
+    color: black;
+}
+
+h1 {
+    margin-top: 0px;
+    margin-bottom: 30px;
+    text-decoration: underline;
+    text-decoration-color: red;
+    /* text-decoration-thickness: ; */
+    text-align: center;
+}
+
+h1:hover {
+    text-decoration-color: white;
+}
+
+h5 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: rgb(100, 100, 100);
+    text-align: center;
+    
+}
+
+img {
+    height: 400px;
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.none {
+    text-decoration: none;
+}
+
+p {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.ing {
+    text-align: center;
+}
+
+ol {
+    list-style: none;
+    text-align: center;
+}
